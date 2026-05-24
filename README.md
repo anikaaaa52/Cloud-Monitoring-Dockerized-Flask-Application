@@ -5,9 +5,6 @@
 
 
 
-![Test](c_allcontainerunning.PNG)
-
-
 
 ## ◈ PROJECT OVERVIEW ◈
 
