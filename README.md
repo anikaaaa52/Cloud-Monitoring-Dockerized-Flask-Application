@@ -111,34 +111,13 @@ Grafana Dashboard Visualization
 ═══════════════════════════════════════════════════════════════════════
 
 
-
 # # ❖ ❖ P R O J E C T   S C R E E N S H O T S ❖ ❖
 
 The following screenshots demonstrate the successful implementation, deployment, monitoring, troubleshooting, and containerization workflow of the complete cloud monitoring infrastructure project.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 1 — ALL DOCKER CONTAINERS RUNNING
-
-This screenshot displays all active Docker containers running successfully inside the Ubuntu Linux environment, including the Flask application, Prometheus, and Grafana monitoring services.
-
-## ◎ Key Highlights
-
-➤ Docker container orchestration
-
-➤ Multi-container deployment
-
-➤ Infrastructure service management
-
-➤ Linux container environment
-
-➤ Monitoring stack deployment
-
-![All Containers Running](dockerstatus.PNG)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# ◉ 2 — PROMETHEUS CONNECTED TO GRAFANA
+# ◉ 1 — PROMETHEUS CONNECTED TO GRAFANA
 
 This screenshot verifies the successful integration between Grafana and Prometheus through the monitoring API connection.
 
@@ -158,7 +137,7 @@ This screenshot verifies the successful integration between Grafana and Promethe
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 3 — FLASK APPLICATION DEPLOYMENT
+# ◉ 2 — FLASK APPLICATION DEPLOYMENT
 
 This screenshot demonstrates the successful deployment and execution of the Flask web application.
 
@@ -178,7 +157,7 @@ This screenshot demonstrates the successful deployment and execution of the Flas
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 4 — DOCKER INSTALLATION & CONFIGURATION
+# ◉ 3 — DOCKER INSTALLATION & CONFIGURATION
 
 This screenshot verifies Docker setup and container engine configuration inside the Linux environment.
 
@@ -198,7 +177,7 @@ This screenshot verifies Docker setup and container engine configuration inside 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 5 — DOCKER CONTAINER STATUS
+# ◉ 4 — DOCKER CONTAINER STATUS
 
 This screenshot displays active Docker container information and running services.
 
@@ -218,7 +197,7 @@ This screenshot displays active Docker container information and running service
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 6 — DOCKERIZED APPLICATION EXECUTION
+# ◉ 5 — DOCKERIZED APPLICATION EXECUTION
 
 This screenshot demonstrates the Flask application running successfully inside Docker containers.
 
@@ -238,7 +217,7 @@ This screenshot demonstrates the Flask application running successfully inside D
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 7 — FINAL PROJECT DEPLOYMENT PROOF
+# ◉ 6 — FINAL PROJECT DEPLOYMENT PROOF
 
 This screenshot represents the successful completion of the complete cloud monitoring infrastructure project.
 
@@ -258,7 +237,7 @@ This screenshot represents the successful completion of the complete cloud monit
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ◉ 8 — GRAFANA MONITORING DASHBOARD
+# ◉ 7 — GRAFANA MONITORING DASHBOARD
 
 This screenshot displays the final Grafana monitoring dashboard visualizing CPU, Memory, Disk, and system metrics in real time.
 
@@ -277,6 +256,26 @@ This screenshot displays the final Grafana monitoring dashboard visualizing CPU,
 ➤ Performance analytics
 
 ![Grafana Dashboard](c_finalmonitoringdashboard.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 8 — ALL DOCKER CONTAINERS RUNNING
+
+This screenshot displays all active Docker containers running successfully inside the Ubuntu Linux environment, including the Flask application, Prometheus, and Grafana monitoring services.
+
+## ◎ Key Highlights
+
+➤ Docker container orchestration
+
+➤ Multi-container deployment
+
+➤ Infrastructure service management
+
+➤ Linux container environment
+
+➤ Monitoring stack deployment
+
+![All Containers Running](dockerstatus.PNG)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -438,7 +437,6 @@ This screenshot demonstrates the network and IP configuration used during deploy
 
 ![Server Network Configuration](server_network_config.PNG)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ═══════════════════════════════════════════════════════════════════════
