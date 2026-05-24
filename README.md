@@ -111,7 +111,6 @@ Grafana Dashboard Visualization
 ═══════════════════════════════════════════════════════════════════════
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # # ❖ ❖ P R O J E C T   S C R E E N S H O T S ❖ ❖
 
@@ -136,7 +135,6 @@ This screenshot displays all active Docker containers running successfully insid
 ➤ Monitoring stack deployment
 
 ![All Containers Running](dockerstatus.PNG)
-
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -440,6 +438,7 @@ This screenshot demonstrates the network and IP configuration used during deploy
 
 ![Server Network Configuration](server_network_config.PNG)
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ═══════════════════════════════════════════════════════════════════════
