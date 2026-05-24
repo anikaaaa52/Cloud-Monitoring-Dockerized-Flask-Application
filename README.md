@@ -135,7 +135,7 @@ This screenshot displays all active Docker containers running successfully insid
 
 ➤ Monitoring stack deployment
 
-![All Containers Running](c_allcontainerrunning.PNG)
+![All Containers Running](c_allcontainerunning.PNG)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
