@@ -2,7 +2,10 @@
 # ✦ ━━━━ ⟡ CLOUD MONITORING & DOCKERIZED FLASK APPLICATION ⟡ ━━━━ ✦
 
 ═══════════════════════════════════════════════════════════════════════
-c_allcontainerunning.PNG
+
+
+
+![Test](c_allcontainerunning.PNG)
 
 
 
