@@ -36,6 +36,7 @@ This project was built with the goal of understanding how modern cloud infrastru
 ### ➊ Project Objectives
 ### ➋ Technologies Used
 ### ➌ Project Architecture
+### ➍ Screenshots
 ### ➍ Infrastructure Workflow
 ### ➎ Docker Deployment
 ### ➏ Monitoring Stack
@@ -109,6 +110,339 @@ Prometheus Monitoring
    ↓
 Grafana Dashboard Visualization
 ```
+
+═══════════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# # ❖ ❖ P R O J E C T   S C R E E N S H O T S ❖ ❖
+
+The following screenshots demonstrate the successful implementation, deployment, monitoring, troubleshooting, and containerization workflow of the complete cloud monitoring infrastructure project.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 1 — ALL DOCKER CONTAINERS RUNNING
+
+This screenshot displays all active Docker containers running successfully inside the Ubuntu Linux environment, including the Flask application, Prometheus, and Grafana monitoring services.
+
+## ◎ Key Highlights
+
+➤ Docker container orchestration
+
+➤ Multi-container deployment
+
+➤ Infrastructure service management
+
+➤ Linux container environment
+
+➤ Monitoring stack deployment
+
+![All Containers Running](c_allcontainerrunning.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 2 — PROMETHEUS CONNECTED TO GRAFANA
+
+This screenshot verifies the successful integration between Grafana and Prometheus through the monitoring API connection.
+
+## ◎ Key Highlights
+
+➤ Prometheus API integration
+
+➤ Monitoring infrastructure connectivity
+
+➤ Grafana data source configuration
+
+➤ Real-time metrics communication
+
+➤ Monitoring stack validation
+
+![Prometheus Connected](c_apiconnectedprometheus.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 3 — FLASK APPLICATION DEPLOYMENT
+
+This screenshot demonstrates the successful deployment and execution of the Flask web application.
+
+## ◎ Key Highlights
+
+➤ Flask application hosting
+
+➤ Web application deployment
+
+➤ Browser accessibility
+
+➤ Python backend execution
+
+➤ Service verification
+
+![Flask Application](c_application.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 4 — DOCKER INSTALLATION & CONFIGURATION
+
+This screenshot verifies Docker setup and container engine configuration inside the Linux environment.
+
+## ◎ Key Highlights
+
+➤ Docker Engine setup
+
+➤ Container management
+
+➤ Linux administration
+
+➤ Docker command execution
+
+➤ Infrastructure preparation
+
+![Docker Installation](c_docker.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 5 — DOCKER CONTAINER STATUS
+
+This screenshot displays active Docker container information and running services.
+
+## ◎ Key Highlights
+
+➤ Docker container monitoring
+
+➤ Container lifecycle management
+
+➤ Service deployment tracking
+
+➤ Infrastructure management
+
+➤ Running service verification
+
+![Docker PS](c_docker_ps.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 6 — DOCKERIZED APPLICATION EXECUTION
+
+This screenshot demonstrates the Flask application running successfully inside Docker containers.
+
+## ◎ Key Highlights
+
+➤ Application containerization
+
+➤ Dockerized deployment
+
+➤ Python container execution
+
+➤ Production-style architecture
+
+➤ Container-based hosting
+
+![Docker Running](c_docker_running.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 7 — FINAL PROJECT DEPLOYMENT PROOF
+
+This screenshot represents the successful completion of the complete cloud monitoring infrastructure project.
+
+## ◎ Key Highlights
+
+➤ Full infrastructure deployment
+
+➤ Monitoring stack implementation
+
+➤ Docker deployment success
+
+➤ Linux server configuration
+
+➤ Production workflow implementation
+
+![Final Project](c_final.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 8 — GRAFANA MONITORING DASHBOARD
+
+This screenshot displays the final Grafana monitoring dashboard visualizing CPU, Memory, Disk, and system metrics in real time.
+
+## ◎ Key Highlights
+
+➤ Real-time monitoring dashboard
+
+➤ CPU analytics
+
+➤ Memory utilization tracking
+
+➤ Disk usage visualization
+
+➤ Infrastructure observability
+
+➤ Performance analytics
+
+![Grafana Dashboard](c_finalmonitoringdashboard.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 9 — GRAFANA PLATFORM INTERFACE
+
+This screenshot demonstrates the Grafana monitoring and visualization platform running successfully.
+
+## ◎ Key Highlights
+
+➤ Grafana monitoring platform
+
+➤ Dashboard visualization
+
+➤ Infrastructure analytics
+
+➤ Monitoring environment
+
+➤ Observability implementation
+
+![Grafana Platform](c_grafana.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 10 — GRAFANA LOGIN INTERFACE
+
+This screenshot shows the Grafana authentication and dashboard access interface.
+
+## ◎ Key Highlights
+
+➤ Monitoring platform authentication
+
+➤ Grafana access management
+
+➤ Dashboard login system
+
+➤ Monitoring portal access
+
+➤ Infrastructure analytics entry point
+
+![Grafana Login](c_grafana_login.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 11 — GRAFANA HOME DASHBOARD
+
+This screenshot demonstrates the Grafana dashboard homepage after successful login and configuration.
+
+## ◎ Key Highlights
+
+➤ Dashboard management
+
+➤ Monitoring workspace
+
+➤ Infrastructure visualization
+
+➤ Analytics dashboard
+
+➤ Monitoring platform configuration
+
+![Grafana Homepage](c_grafanahomepage.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 12 — NGINX CONFIGURATION
+
+This screenshot demonstrates the Nginx reverse proxy configuration used to route requests to the Flask application.
+
+## ◎ Key Highlights
+
+➤ Reverse proxy implementation
+
+➤ Nginx web server setup
+
+➤ HTTP request forwarding
+
+➤ Service routing
+
+➤ Infrastructure networking
+
+![Nginx Setup](c_ngin.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 13 — NGINX REVERSE PROXY WORKFLOW
+
+This screenshot verifies successful communication between Nginx and the Flask application backend.
+
+## ◎ Key Highlights
+
+➤ Reverse proxy workflow
+
+➤ Web traffic management
+
+➤ Backend communication
+
+➤ Service accessibility
+
+➤ Production-style architecture
+
+![Nginx Running](c_nginx_running.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 14 — PROMETHEUS MONITORING PLATFORM
+
+This screenshot displays the Prometheus monitoring interface used for infrastructure metrics collection.
+
+## ◎ Key Highlights
+
+➤ Infrastructure monitoring
+
+➤ Metrics collection
+
+➤ Monitoring endpoints
+
+➤ Real-time monitoring
+
+➤ Prometheus server execution
+
+![Prometheus Dashboard](c_prometheus.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 15 — FLASK SERVER EXECUTION
+
+This screenshot shows the Flask application server actively running inside the Linux terminal environment.
+
+## ◎ Key Highlights
+
+➤ Flask backend execution
+
+➤ Python server runtime
+
+➤ Network port exposure
+
+➤ Linux terminal operations
+
+➤ Application hosting
+
+![Flask Running](flaskrunning.PNG)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ◉ 16 — SERVER NETWORK CONFIGURATION
+
+This screenshot demonstrates the network and IP configuration used during deployment and monitoring setup.
+
+## ◎ Key Highlights
+
+➤ Server networking
+
+➤ Infrastructure connectivity
+
+➤ IP configuration
+
+➤ Network routing
+
+➤ Linux network administration
+
+![Server Network Configuration](server_network_config.PNG)
+
+
 
 ═══════════════════════════════════════════════════════════════════════
 
